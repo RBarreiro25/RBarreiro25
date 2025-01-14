@@ -1,8 +1,8 @@
 <h3>About me</h3>
 
-Fullstack developer focused on React, TypeScript, and Node.js. Experienced in building scalable applications and automating processes for the food and beverage, marketing and education industries.
+Fullstack Software Developer with strong React.js, Typescript and Node.js skills. Experienced in optimizing, building and maintaining complex and scalable software solutions.
 
-Systems Analyst and Developer. Oracle Certified OCI AI Foundations Associate. 
+Graduated Software Analyst Developer. B2 English certified and Oracle Certified AI Foundations Associate.
 
 Check out my LinkedIn: [in/raphaelbarreiro](https://www.linkedin.com/in/raphaelbarreiro/)
 
