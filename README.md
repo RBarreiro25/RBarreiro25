@@ -1,6 +1,6 @@
 <h3>About me</h3>
 
-Full-Stack AI Software Developer with 5 years of experience building scalable web applications and AI-native SaaS platforms.  
+Founding Software Engineer experienced in building scalable web applications and AI-native SaaS platforms.  
 Skilled in React.js, TypeScript, and Node.js, with strong expertise in data pipelines, cloud infrastructure, and intelligent automation.  
 Hands-on experience structuring development teams, delivering end-to-end applications under tight deadlines, and integrating AI agents, RAG, and workflow automation into production systems.  
 
