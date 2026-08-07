@@ -1,10 +1,10 @@
 <h3>About me</h3>
 
-Founding Software Engineer experienced in building scalable web applications and AI-native SaaS platforms.  
+Founding Software Engineer experienced in building web applications both traditional ones and AI-native SaaS platforms.  
 Skilled in React.js, TypeScript, and Node.js, with strong expertise in data pipelines, cloud infrastructure, and intelligent automation.  
 Hands-on experience structuring development teams, delivering end-to-end applications under tight deadlines, and integrating AI agents, RAG, and workflow automation into production systems.  
 
-Graduated in Systems Analysis and Development (AAS) and currently pursuing an MBA in Big Data and Corporate Intelligence.  
+Graduated in Systems Analysis and Development (AAS) and MBA in Big Data and Corporate Intelligence.  
 Certified Oracle AI Foundations Associate and JavaScript/TypeScript Platform Developer.  
 
 Check out my LinkedIn: [in/raphaelbarreiro](https://www.linkedin.com/in/raphaelbarreiro/)
