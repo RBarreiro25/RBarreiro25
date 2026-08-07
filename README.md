@@ -1,6 +1,6 @@
 <h3>About me</h3>
 
-Founding Software Engineer experienced in building web applications both traditional ones and AI-native SaaS platforms.  
+Founding Software Engineer experienced in building web applications, both traditional and AI-native ones.  
 Skilled in React.js, TypeScript, and Node.js, with strong expertise in data pipelines, cloud infrastructure, and intelligent automation.  
 Hands-on experience structuring development teams, delivering end-to-end applications under tight deadlines, and integrating AI agents, RAG, and workflow automation into production systems.  
 
